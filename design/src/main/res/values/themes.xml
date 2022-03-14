@@ -20,6 +20,7 @@
         <item name="actionOverflowButtonStyle">@style/Widget.App.Toolbar.ButtonStyle</item>
         <item name="appBarLayoutStyle">@style/Widget.App.AppBarLayout</item>
         <item name="collapsingToolbarLayoutStyle">@style/Widget.App.CollapsingToolbarLayout</item>
+        <item name="tabStyle">@style/Widget.App.TabLayout</item>
         <item name="textInputStyle">@style/Widget.App.TextInput</item>
         <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
         <item name="materialButtonStyle">@style/Widget.App.Button.Primary</item>
